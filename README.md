@@ -4,3 +4,5 @@ Hi, I'm Sharanagouda B Patil, an undergraduate engineering student. This reposit
 - Learning Python and C programming
 - Interested in embedded systems and microcontrollers
 - Goal: contribute to open-source developer tools
+## Projects
+- Credit Card Fraud Detection: A machine learning project to identify potentially fraudulent transactions.
